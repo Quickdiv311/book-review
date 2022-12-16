@@ -1,0 +1,26 @@
+.container
+{
+    border: 1px solid gray;
+    margin: 20px auto;
+    padding: 0;
+    width: 80%;
+    text-align: center;
+}
+
+.title
+{
+    font-weight: bolder;
+    font-size: large;
+}
+
+img
+{
+    height: 400px;
+    width: 100%;
+    margin: 10px auto;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
